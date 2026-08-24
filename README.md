@@ -1,6 +1,3 @@
-# GitHub Profile README
-
-````md
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">Java Backend Developer • Full Stack • AI Engineering</h3>
 
@@ -222,19 +219,3 @@ Real-world Projects
   <b>Learning • Building • Shipping</b>
 </p>
 ```
-
-### How we'll maintain this
-
-For now, keep **only technologies you've actually used** visible.
-
-Everything else stays commented out.
-
-So right now your visible profile should basically show:
-
-`Java` `Spring Boot` `Git` `GitHub`
-
-As you finish parts of the MedTech app, we'll progressively unlock:
-
-`PostgreSQL` → `JPA` → `REST API` → `Spring Security` → `JWT` → `Docker` → etc.
-
-That way six months from now, the README itself becomes a record of your progression rather than a fake wall of badges.
