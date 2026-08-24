@@ -11,6 +11,7 @@ MNNIT Allahabad '29 • Focused on Scalable Systems, Distributed Architecture, a
 
 </div>
 
+---
 
 ### 👨‍💻 About Me
 
@@ -18,6 +19,7 @@ MNNIT Allahabad '29 • Focused on Scalable Systems, Distributed Architecture, a
 - **Focus Areas:** Backend Architecture, Distributed Systems, Microservices, and Cloud Infrastructure.
 - **Current Endeavors:** Deepening expertise in Java & Spring ecosystem while integrating modern AI capabilities (RAG, LLM orchestration) into full-stack web applications.
 
+---
 
 ### 🧰 Technical Stack
 
@@ -63,6 +65,7 @@ Soon
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 <!--![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)-->
 
+---
 
 ### 📈 Technical Roadmap
 
