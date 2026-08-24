@@ -1,9 +1,9 @@
 <div align="center">
 
-# Girindra
-### Java Backend Developer • Full-Stack • AI Engineering
+# Girindra Jaiswal
+### Java Backend Developer • Full-Stack • Aspiring AI Engineering
 
-MNNIT Allahabad '27 • Focused on Scalable Systems, Distributed Architecture, and AI Systems
+MNNIT Allahabad '29 • Focused on Scalable Systems, Distributed Architecture, and AI Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
@@ -88,12 +88,3 @@ MNNIT Allahabad '27 • Focused on Scalable Systems, Distributed Architecture, a
 
 ---
 
-### 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_USERNAME)
-
-</div>
