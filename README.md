@@ -1,9 +1,5 @@
-
-
 <div align="center">
-<p align="center">
-  <img src="https://media.tenor.com/PZ72-y70-fMAAAAi/mona-github-loading.gif" alt="Mona GitHub Loading" width="120" />
-</p>
+
 # Girindra Jaiswal
 ### Java Backend Developer • Full-Stack • Aspiring AI Engineering
 
